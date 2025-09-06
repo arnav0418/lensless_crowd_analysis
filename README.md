@@ -172,10 +172,10 @@ If this repository or the associated methodology contributes to your research, p
 
 ```bibtex
 @article{YourCitation,
-  author  = {Your Name},
+  author  = {Arnav Gupta},
   title   = {Lensless Crowd Analysis with FZA Imaging and TwIST Reconstruction},
   journal = {To appear},
-  year    = {2024}
+  year    = {2025}
 }
 ```
 
