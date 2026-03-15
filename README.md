@@ -13,6 +13,14 @@ Both algorithms operate on simulated or real lensless captures generated through
 
 ---
 
+## 📄 Research Paper
+
+**Lensless CCTV Surveillance: Single-Shot Imaging for Privacy-Aware Crowd Monitoring**
+
+📄 [Read the Paper](https://ieeexplore.ieee.org/document/11411024)
+
+---
+
 ## Directory Structure
 ```text
 .
