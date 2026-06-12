@@ -1,5 +1,13 @@
 # Lensless Crowd Analysis
 
+## 📄 Research Paper
+
+**Lensless CCTV Surveillance: Single-Shot Imaging for Privacy-Aware Crowd Monitoring**
+
+📄 [Read the Paper](https://ieeexplore.ieee.org/document/11411024)
+
+---
+
 ## Overview
 This repository contains a prototype pipeline for **privacy‑preserving crowd monitoring** using lensless **Fresnel Zone Aperture (FZA)** imaging, combined with digital reconstruction and post‑processing for downstream analytics (e.g., object tracking, anomaly detection).
 
@@ -10,14 +18,6 @@ The pipeline showcases two complementary reconstruction approaches:
 - **Compressed Sensing (CS) via TwIST** — Two‑step Iterative Shrinkage/Thresholding with total‑variation (TV) regularization.
 
 Both algorithms operate on simulated or real lensless captures generated through an **FZA mask**. This reconstruction front‑end can feed downstream models (e.g., **YOLOv4 + DeepSORT** tracking, **CNN–LSTM** anomaly detection) outside this repository.
-
----
-
-## 📄 Research Paper
-
-**Lensless CCTV Surveillance: Single-Shot Imaging for Privacy-Aware Crowd Monitoring**
-
-📄 [Read the Paper](https://ieeexplore.ieee.org/document/11411024)
 
 ---
 
